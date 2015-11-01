@@ -20,6 +20,8 @@
 		<string>Screenshot file</string>
 		<key>LBSummary</key>
 		<string>Capture a screenshot, save it to ~/Downloads folder.</string>
+		<key>LBWebsite</key>
+		<string>https://gitlab.elbracht.org/launchbar/screenshot</string>
 	</dict>
 	<key>LBResult</key>
 	<string>Screenshot file</string>
