@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CFBundleIconFile</key>
+	<string>com.apple.Grab</string>
+	<key>CFBundleIdentifier</key>
+	<string>org.elbracht.screenshot</string>
+	<key>CFBundleName</key>
+	<string>Screenshot</string>
+	<key>CFBundleVersion</key>
+	<string>0.1.0</string>
+	<key>LBDescription</key>
+	<dict>
+		<key>LBAuthor</key>
+		<string>Alexander Elbracht</string>
+		<key>LBEmail</key>
+		<string>alexander@elbracht.org</string>
+		<key>LBResult</key>
+		<string>Screenshot file</string>
+		<key>LBSummary</key>
+		<string>Capture a screenshot, save it to ~/Downloads folder.</string>
+	</dict>
+	<key>LBResult</key>
+	<string>Screenshot file</string>
+	<key>LBScripts</key>
+	<dict>
+		<key>LBDefaultScript</key>
+		<dict>
+			<key>LBKeepWindowActive</key>
+			<true/>
+			<key>LBResultType</key>
+			<string>unknown</string>
+			<key>LBReturnsResult</key>
+			<true/>
+			<key>LBScriptName</key>
+			<string>screenshot.js</string>
+		</dict>
+	</dict>
+</dict>
+</plist>
